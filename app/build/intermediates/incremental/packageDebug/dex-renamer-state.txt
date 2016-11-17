@@ -1,0 +1,7 @@
+#Mon Nov 14 12:27:23 CST 2016
+base.0=D\:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5f9bdca1fca7a64d39adff089e6687499f184d4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_907291737fb3d9770af281ee8d891a481aa67fb3\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_907291737fb3d9770af281ee8d891a481aa67fb3
+file.0=D\:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5f9bdca1fca7a64d39adff089e6687499f184d4\\classes.dex

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GWNews</string>
+    <string name="shade_left">遮挡左边的阴影</string>
+    <string name="shade_right">遮挡右边的阴影</string>
+    <string name="more">按钮：添加更多</string>
+    <string name="applogo">AppLogo</string>
+    <string name="already_in_news_type">已添加新闻种类</string>
+    <string name="not_yet_news_type">待添加新闻种类</string>
+    <string name="logout">注销</string>
+    <string name="use_permission">使用协议</string>
+    <string name="declare">声明</string>
+    <string name="not_in_business">GWNews,不得用于任何商业目的</string>
+    <string name="pay_for_it">若因此产生的任何纠纷由使用者自行承担！</string>
+    <string name="learn">GWNews是作者学习所开发</string>
+    <string name="contact">若侵犯了您的权益请联系作者！</string>
+    <string name="e_mail_646634231_qq_com">e-mail：646634231@qq.com</string>
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><!--左侧滑页面-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:background="#e8e8e8"
+    android:gravity="center_horizontal">
+
+    <!--侧滑页面-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+        <!--用户头像-->
+        <com.example.gwnews.view.CircleImageView
+            android:id="@+id/circle_image_view_user_icon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/logout" />
+
+        <!--用户名-->
+        <TextView
+            android:id="@+id/text_view_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <!--登录按钮-->
+        <Button
+            android:id="@+id/button_login_wei_bo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/sina"
+            android:onClick="loginWeiBo" />
+
+        <!--注销按钮-->
+        <Button
+            android:id="@+id/button_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="9dp"
+            android:onClick="logout"
+            android:text="@string/logout"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <!--版本-->
+
+    <!--声明-->
+    <TextView
+        android:id="@+id/declare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="12dp"
+        android:onClick="declare"
+        android:text="@string/declare"
+        android:textSize="16sp" />
+
+    <!--使用协议-->
+    <TextView
+        android:id="@+id/use_permission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/declare"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="6dp"
+        android:onClick="usePermission"
+        android:text="@string/use_permission"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/use_permission"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="6dp"
+        android:text="Version:1.1"
+        android:textSize="16sp" />
+
+</RelativeLayout>

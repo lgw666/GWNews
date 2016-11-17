@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sina.png",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable-ldpi\\sina.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_137c0d1aecfee485bb0be51025adb59b1744a820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2422ef954471c1337642bd0f9a8fab057b0ed953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="033e7a170feb4acc10bbc04ed9d5f7872a1f7e63">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_907291737fb3d9770af281ee8d891a481aa67fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\gson-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.2_04a643fae9a73a39465f10a8bf7c1c766309117a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e6caacb497efffa9d3e718158a9d87cbb4f686d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_241a55391c369e150edd5fc58f469472cb0e4625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_bd3f1f63c6507a0f247afd2d5c0b6a14c5887aa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Program\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_7cbab0250d74a611f1a7be627326f53f7f31dc91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_bec68bfb014f16e5ca9303506e37afde94e2d41d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d8ba6dcb5a73e0ef2c6b43b1fd76e5f7397f05b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cba4c9e8859dc93ebca4a542ab3e86c73fd20f68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\universal-image-loader-1.8.5-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d49f41272ec598fcfb8f6a53954458f6c995d75a">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.5-with-sources_ad4390aa233eaf7424aa19221bdee43cddc36170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a695dca66bd0cf199d214b7264b9a5e62c7c8310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_016b8e9a6773132fc1a2c5cc862acc48b742931f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8fe882960b965e57557d564d96ae9f19161f6916">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_7be785ba6798a1a26db7f135ad15ef41d315e6ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\MobCommons-2016.1020.1028.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3948108741c08c0e579f94012eb26f682ec426f0">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.1020.1028_df3802846d51656bb7650786e2bf0987e999d5dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\ShareSDK-SinaWeibo-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="35f7650c1eb992882c97fd8e3f604cf9adee52c6">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.7.8_86e4baebf4074d6a360a7c4bbecf7b96931961ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\ShareSDK-QQ-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8b15348ff13dbf2d1d2bacf313333bf20ef296c5">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.7.8_83a8fc2fcb3e625e8f4f83d8a8e8b6552dc52283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_8aeeecd46e697f00c721f12819dadd7742c2b229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_00e5a8c64bc2b88a6114a79aa60f014e2c9c943e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b8e73df820f879738f66cd88ca42b589f90b038e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\ShareSDK-Core-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4dd0c34f6c0ce63f74e10dd807753c74f02be39d">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.7.8_2cc0a76b8f512112259160e5c9ff82b99ba9741d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a849dc45eb4cba0901d57c4e16528b1d575dba6c">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5f9bdca1fca7a64d39adff089e6687499f184d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\ShareSDK-QZone-2.7.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3cd46c67248aecdbc97efac747e15461f90b2b88">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.7.8_d2cd4b5be30f900e3cb58180895cfaf6a4953854\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\libs\MobTools-2016.1020.1028.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="65e1e4b24233275c55a0664c22e95c46cb32448a">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.1020.1028_c331d541520a3c9e11cebdd492ca161be5df8418\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_33079a654df3990c88811677893c04b9ce8de7d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\GWNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\GWNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3c5811bfb72b75f51e7fc05fcb52d7a35552173d\classes.dex" />
+    </item>
+
+</items>

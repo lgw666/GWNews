@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\get_more_btn_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\get_more_btn_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\channel_glide_day_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\channel_glide_day_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\get_more_btn_bg.png",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\get_more_btn_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_category.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\btn_category.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_category_scroll_text_view_bg_night.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\top_category_scroll_text_view_bg_night.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.jpg",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_buttong_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\radio_buttong_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_head_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\bg_head_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\channel_glide_night_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\channel_glide_night_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_head_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\bg_head_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_list_view_progressbar_bg.png",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\pull_list_view_progressbar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\btn_common.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_head.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\bg_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_category_scroll_text_view_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\top_category_scroll_text_view_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\badge_titlebar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_drawer.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\right_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_list_view_progressbar.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\pull_list_view_progressbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\bg_titlebar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\get_more_btn_bg_f.png",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\src\\main\\res\\drawable\\get_more_btn_bg_f.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\AndroidStudioProjects\\GWNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    }
+]
